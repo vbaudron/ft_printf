@@ -17,7 +17,7 @@ CC = gcc
 FLAGS = -Wall -Wextra -Werror
 GENERAL_PATH = ./
 
-PATH_LIB = $(GENERAL_PATH)srcs/libft/
+PATH_LIB = $(GENERAL_PATH)/libft/
 PATH_FT_PRINTF = $(GENERAL_PATH)srcs/
 PATH_HEADERS = $(GENERAL_PATH)includes/
 HEADERS = libft.h ft_printf.h
